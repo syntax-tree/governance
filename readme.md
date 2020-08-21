@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/syntax-tree](https://github.com/syntax-tree)
 *   npm: [npmjs.com/~syntax-tree](https://www.npmjs.com/org/syntax-tree)
-*   Spectrum: [spectrum.chat/unified/syntax-tree](https://spectrum.chat/unified/syntax-tree)
 
 ## License
 
